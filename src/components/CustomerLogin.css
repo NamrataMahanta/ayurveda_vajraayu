@@ -1,0 +1,30 @@
+
+ .main{
+    background-image: url(./login.jpg);
+    height: 100vh;
+    background-size:cover;
+    background-position: center;
+    padding-top: 25vh;
+    text-align: center;
+    justify-content: center;
+    display:flex;
+ }
+
+ .sub-main{
+    justify-content: center;
+    width: 45%;
+    height: 550px;
+    box-shadow: 18px 18px 18px 18px;
+    padding: 80px;
+    border-radius: 60px;
+    background-color:azure;
+    text-align: left;
+ }
+
+ .form{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;;
+ }
+
+ 
